@@ -20,4 +20,4 @@ client.on("messageCreate", msg => {
 
 });
 
-client.login("OTAyNjkyNzU4NDQ2MjkzMDYy.YXiIJA.3TP7pytfqITbvM-2NRke9lq_iug");
+client.login("TOKENAQUI");
