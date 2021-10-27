@@ -1,6 +1,7 @@
 # Trilogy Music Bot
                                           JavaScript bot music from discord
 
+[Discord.js documentação](https://discord.js.org/#/) | 
 
 - [x] npm install discord.js@12.5.3
 - [x] npm install ffmpeg-static
