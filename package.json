@@ -1,0 +1,24 @@
+{
+  "name": "trilogybot",
+  "version": "1.0.0",
+  "description": "Trilogy Music Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdcodedev/trilogybotdiscord.git"
+  },
+  "author": "Guilherme Cardoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gdcodedev/trilogybotdiscord/issues"
+  },
+  "homepage": "https://github.com/gdcodedev/trilogybotdiscord#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.0"
+  }
+}
